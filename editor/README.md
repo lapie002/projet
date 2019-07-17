@@ -1,0 +1,3 @@
+# editor
+This is the editor folder :)
+....
